@@ -1,0 +1,7 @@
+"# Dashboard" 
+"" 
+"## Statistiques … afficher" 
+"" 
+"1. Nombre total de consultations enregistr‚es" 
+"2. Nombre de patients par r‚gion" 
+"3. Taux de consultations compl‚t‚es vs en attente" 
