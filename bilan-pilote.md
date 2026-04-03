@@ -1,0 +1,5 @@
+"# Bilan Git - Le Pilote" 
+"" 
+"1. J'ai appris … cr‚er des branches avec git switch -c" 
+"2. J'ai appris … ouvrir une Pull Request sur GitHub" 
+"3. J'ai compris comment un conflit Git survient et comment le r‚soudre" 
